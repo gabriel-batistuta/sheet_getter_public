@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+planilhas/
+json_ordenado.json
+reports.json
+reports_lists.json

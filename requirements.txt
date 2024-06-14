@@ -1,0 +1,11 @@
+requests==2.25.1
+selenium==4.18.1
+openpyxl==3.1.2
+pyinstaller==6.5.0
+webdriver_manager==4.0.1
+tqdm==4.66.2
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gspread==6.1.0
+pandas==2.2.2

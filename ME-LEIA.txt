@@ -1,0 +1,16 @@
+OBS: faça o procedimento na raiz da pasta de projeto (a mesma do main.py)
+
+1 - execute o instalador do python (python-3.10.0rc1.pkg) 
+2 - no instalador, marque adicionar ao caminho ou add to path
+3 - clique iniciar e concluido
+4 - execute isso:
+chmod +x setup.sh && sudo ./setup.sh 
+
+5 - execute o app "Relatórios Salão Jovem"
+
+# pronto, isso é tudo que precisa fazer
+
+# OBS:
+# os passos 1 ao 4 só precisa fazer uma vez
+# quando for usar o script de novo só precisa fazer o passo 5
+# pelos dados serem grandes talvez demore duas horas ou mais pra rodar tudo
